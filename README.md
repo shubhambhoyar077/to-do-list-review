@@ -112,7 +112,8 @@ To run tests, open index.html in any web browser.
 
 ### Deployment
 
-You can deploy this project using: Project is incomplete.
+You can deploy this project using: GitHub Page or any other platform.
+- For Deployment run **npm run build** cmd to create **dist** and use that folder for deployment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
