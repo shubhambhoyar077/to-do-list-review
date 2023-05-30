@@ -60,3 +60,11 @@ clearCompletedItem.addEventListener('click', (e) => {
 });
 
 showDate();
+
+
+// ulList.addEventListener('change', (event) => {
+//   if (event.target.id === 'checkbox') {
+//     const index = setStatus(event);
+//     newToDoList.markComplited(index, event.target.checked);
+//   }
+// });
