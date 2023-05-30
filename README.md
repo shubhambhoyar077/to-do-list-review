@@ -156,7 +156,7 @@ Inspired by [getminimalist](https://web.archive.org/web/20180320194056/http://ww
  
 ## 📝 License <a name="license"></a>
  
-This project is [MIT](https://github.com/Tracy-miranja/Awesome-book/blob/main/LICENCE licensed.
+This project is [MIT](https://github.com/shubhambhoyar077/to-do-list-review/blob/dev/LICENSE) licensed.
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 README.md
