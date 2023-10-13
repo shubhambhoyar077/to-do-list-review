@@ -1,8 +1,8 @@
 import './style.css';
-import ToDoList from './modules/toDoList';
-import showDate from './modules/dateTime';
-import { editUi, updateUi } from './modules/edit_update';
-import setStatus from './modules/statusUpdate';
+import ToDoList from './modules/toDoList.js';
+import showDate from './modules/dateTime.js';
+import { editUi, updateUi } from './modules/edit_update.js';
+import setStatus from './modules/statusUpdate.js';
 
 const addItem = document.getElementById('enter-item');
 const addItemBtn = document.getElementById('add-item');
@@ -60,3 +60,10 @@ clearCompletedItem.addEventListener('click', (e) => {
 });
 
 showDate();
+
+// ulList.addEventListener('change', (event) => {
+//   if (event.target.id === 'checkbox') {
+//     const index = setStatus(event);
+//     newToDoList.markComplited(index, event.target.checked);
+//   }
+// });
